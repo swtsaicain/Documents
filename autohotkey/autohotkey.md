@@ -1,6 +1,7 @@
-= AutoHotkey
+# AutoHotkey
 
-== Basic usage
+## Basic usage
 
-=== Variable
+### Variable
+
 * test
