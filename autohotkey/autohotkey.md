@@ -18,8 +18,8 @@
     * [Functions](https://lexikos.github.io/v2/docs/Functions.htm)
 
 ### 流程控制
-* For  
-> 無窮迴圈
+* For
+  > 無窮迴圈
   * 語法
     ```
     Loop {
@@ -39,7 +39,7 @@
   * 參考
     * [Loop](https://www.autohotkey.com/docs/commands/Loop.htm)
 * For, count
-> 指定次數迴圈
+  > 指定次數迴圈
   * 語法
     ```
     Loop %RepeatCount% {
@@ -57,7 +57,7 @@
     * [Loop](https://www.autohotkey.com/docs/commands/Loop.htm)
 ### Color  
 * PixelGetColor  
-> 取得指定位置座標顏色
+  > 取得指定位置座標顏色
   * 語法
     ```
     PixelGetColor, OutputVar, X, Y , Mode
